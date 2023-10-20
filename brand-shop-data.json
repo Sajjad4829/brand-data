@@ -2,31 +2,31 @@
   {
     "id": 1,
     "name": "Walton",
-    "image": "https://example.com/walton.png"
+    "image": "https://i.ibb.co/XkVQNKj/brand3.jpg"
   },
   {
     "id": 2,
     "name": "LG",
-    "image": "https://example.com/lg.png"
+    "image": "https://i.ibb.co/L6tk8vY/lg-logo-PNG5.png"
   },
   {
     "id": 3,
-    "name": "Sony",
-    "image": "https://example.com/sony.png"
+    "name": "Intel",
+    "image": "https://i.ibb.co/Tg84M1z/barnd1.png"
   },
   {
     "id": 4,
     "name": "Samsung",
-    "image": "https://example.com/samsung.png"
+    "image": "https://i.ibb.co/hgmqskS/samsung.jpg"
   },
   {
     "id": 5,
     "name": "Vision",
-    "image": "https://example.com/vision.png"
+    "image": "https://i.ibb.co/Mpj7JKg/brand2.jpg"
   },
   {
     "id": 6,
     "name": "Apple",
-    "image": "https://example.com/apple.png"
+    "image": "https://i.ibb.co/6FBCF19/Apple-logo-PNG4.png"
   }
 ]
