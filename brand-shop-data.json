@@ -3,9 +3,9 @@
     "id": 1,
     "name": "Walton",
     "image": "https://i.ibb.co/XkVQNKj/brand3.jpg",
-    "slider-image1":"https://i.ibb.co/Jj2c0D6/img1.jpg",
-     "slider-image2":"https://i.ibb.co/WD47Qgf/img2.jpg",
-     "slider-image3":"https://i.ibb.co/0MS1hPB/img3.jpg"
+    "slider_image1":"https://i.ibb.co/Jj2c0D6/img1.jpg",
+     "slider_image2":"https://i.ibb.co/WD47Qgf/img2.jpg",
+     "slider_image3":"https://i.ibb.co/0MS1hPB/img3.jpg"
     
   },
   {
